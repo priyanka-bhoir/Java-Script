@@ -1,0 +1,923 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pri",
+				"println"
+			],
+			[
+				"thro",
+				"throws"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"co",
+				"control"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"P",
+				"placeholder\tAttr"
+			],
+			[
+				"p",
+				"pass"
+			],
+			[
+				"pass",
+				"Password"
+			],
+			[
+				"Te",
+				"textbox"
+			],
+			[
+				"t",
+				"textbox"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ne",
+				"newMap"
+			],
+			[
+				"n",
+				"new"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"ca",
+				"camera"
+			],
+			[
+				"F",
+				"filter"
+			],
+			[
+				"to",
+				"todos"
+			],
+			[
+				"T",
+				"title"
+			],
+			[
+				"th",
+				"thingsDone"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"i",
+				"isDone"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"fi",
+				"findTodo"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"f",
+				"f\tAnonymous Function"
+			],
+			[
+				"B",
+				"bread"
+			],
+			[
+				"my",
+				"myVar"
+			],
+			[
+				"m",
+				"myVar"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"l",
+				"low"
+			],
+			[
+				"fl",
+				"floatRes"
+			],
+			[
+				"u",
+				"userEmail"
+			],
+			[
+				"Ma",
+				"matrix"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"mee",
+				"meetDone"
+			],
+			[
+				"me",
+				"meetdone"
+			],
+			[
+				"meet",
+				"meetl"
+			],
+			[
+				"get",
+				"getSumm"
+			],
+			[
+				"ge",
+				"getSumm"
+			],
+			[
+				"v",
+				"videocreator"
+			],
+			[
+				"tr",
+				"try"
+			],
+			[
+				"pu",
+				"pu\tpublic"
+			],
+			[
+				"fname",
+				"fname"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"is",
+				"isGuest"
+			],
+			[
+				"a",
+				"a2"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"I",
+				"Insertion"
+			],
+			[
+				"b",
+				"break"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"for",
+				"for\tfor"
+			],
+			[
+				"sc",
+				"scanner"
+			],
+			[
+				"Sye",
+				"System"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"str",
+				"String"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"ou",
+				"out"
+			],
+			[
+				"sum",
+				"sum"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/fpass/index.html",
+			"settings":
+			{
+				"buffer_size": 290,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/jdbc/index.html",
+			"settings":
+			{
+				"buffer_size": 143,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/fpass/WEB-INF/web.xml",
+			"settings":
+			{
+				"buffer_size": 501,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/fpass/WEB-INF/classes/Myfilter.java",
+			"settings":
+			{
+				"buffer_size": 779,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/fpass/WEB-INF/classes/pass.java",
+			"settings":
+			{
+				"buffer_size": 494,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"liver",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"livereloda",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"plug",
+				"Plugin Development: Profile Events"
+			],
+			[
+				"em",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"emmi",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"color h",
+				"UI: Select Color Scheme"
+			],
+			[
+				"set",
+				"Set Syntax: Java"
+			],
+			[
+				"enco",
+				"Install Package Control"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"conv",
+				"Convert Case: Upper Case"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"java thread",
+			"javac thread.java",
+			"javac theasd.java",
+			"f:",
+			"node",
+			"node scope.js"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/filterlogging",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/filterlogging/WEB-INF",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/filterlogging/WEB-INF/classes",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/fpass",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/fpass/WEB-INF",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/fpass/WEB-INF/classes",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/jdbc",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/login",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/login/WEB-INF"
+	],
+	"file_history":
+	[
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/login/WEB-INF/web.xml",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/filterdemomulitiple/WEB-INF/classes/MyFiltersec.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/filterdemomulitiple/WEB-INF/classes/MyFilter.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/filterdemomulitiple/WEB-INF/classes/HelloServlet.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/filterdemomulitiple/WEB-INF/web.xml",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/filterdemomulitiple/index.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/filterlogging/WEB-INF/classes/kw.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/filterlogging/WEB-INF/classes/HelloServlet.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/filterlogging/WEB-INF/web.xml",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/filterlogging/index.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/logs/localhost_access_log.2019-02-26.txt",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/logs/localhost_access_log.2019-01-26.txt",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/cr/WEB-INF/classes/delete.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/cr/WEB-INF/classes/update.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/cr/WEB-INF/classes/insert.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/cr/WEB-INF/classes/Create.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/cr/WEB-INF/web.xml",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/cr/index.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/cr/insert1.html",
+		"/F/college/sem6/wt/practical/frames/frames11.html",
+		"/C/Users/PRIYANKA/Documents/my work/dec.txt",
+		"/C/Users/PRIYANKA/Documents/my work/Practical_Solution_dotnet.xmlns",
+		"/C/Users/PRIYANKA/Documents/my work/Practical_Solution_dotnet.zip",
+		"/C/Users/PRIYANKA/Documents/my work/Practical_Solution_dotnet.docx",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/cr/WEB-INF/web1.xml",
+		"/F/college/sem6/java/webapps/jdbc/index.html",
+		"/F/college/sem6/java/webapps/jdbc/WEB-INF/web.xml",
+		"/F/college/sem6/java/webapps/jdbc/WEB-INF/classes/demo.java",
+		"/C/apache-tomcat-9.0.14/conf/server.xml",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/jdbc/WEB-INF/web.xml",
+		"/F/college/sem6/java/webapps/cr/WEB-INF/web.xml",
+		"/F/college/sem6/java/webapps/cr/WEB-INF/classes/Create.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/jdbc/WEB-INF/classes/demo.java",
+		"/F/college/sem6/wt/practical/frames/frames10.html",
+		"/F/college/sem6/wt/practical/frames/frames9.html",
+		"/C/Users/PRIYANKA/AppData/Local/Temp/Rar$DI96.120/presentation.txt",
+		"/C/Users/PRIYANKA/AppData/Local/Temp/Rar$DI14.936/presentation.txt",
+		"/C/Users/PRIYANKA/AppData/Local/Temp/Rar$DI30.936/presentation.txt",
+		"/C/Users/PRIYANKA/AppData/Local/Temp/Rar$DI79.416/presentation.txt",
+		"/C/Users/PRIYANKA/AppData/Local/Temp/Rar$DI46.416/presentation.txt",
+		"/C/Users/PRIYANKA/AppData/Local/Temp/Rar$DI58.120/presentation.txt",
+		"/C/Users/PRIYANKA/AppData/Local/Temp/Rar$DI54.936/presentation.txt",
+		"/C/Users/PRIYANKA/AppData/Local/Temp/Rar$DI78.120/presentation.txt",
+		"/F/college/sem6/wt/practical/frames/frames6.html",
+		"/F/college/sem6/wt/practical/frames1.html",
+		"/F/college/sem6/wt/practical/frames6.html",
+		"/F/college/sem6/wt/practical/frames3.html",
+		"/F/college/sem6/wt/practical/frames7.html",
+		"/F/college/sem6/wt/practical/frames8.html",
+		"/F/college/sem6/wt/practical/frames5.html",
+		"/F/college/sem6/wt/practical/frames4.html",
+		"/E/New folder/sql injector/sql injector/brute/adminpage.txt",
+		"/C/Users/PRIYANKA/AppData/Local/Temp/Rar$DI92.024/Atom's Install Notes (Please Read).txt",
+		"/E/New folder/software_freq/DeepFreeze/DeepFreeze/Serial DF722.txt",
+		"/K/D/Desk_25_7_2015/sql injector/sql injector/brute/brute/column_names.txt",
+		"/F/college/sem6/java/webapps/demoarea/index.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/demoarea/index.html",
+		"/F/college/sem6/java/webapps/demoarea/WEB-INF/web.xml",
+		"/C/Users/PRIYANKA/Documents/my work/pass.txt",
+		"/F/college/sem6/java/webapps/demoarea/WEB-INF/classes/DemoServ.java",
+		"/F/college/sem6/java/webapps/demoadd/index.html",
+		"/F/college/sem6/java/webapps/demoadd/WEB-INF/web.xml",
+		"/F/college/sem6/java/webapps/demoadd/WEB-INF/classes/DemoServ_add.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/demoarea/WEB-INF/classes/DemoServ.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/rds/WEB-INF/classes/Login.java",
+		"/C/TURBOC3/BIN/dcdr/Practical 3.cpp",
+		"/C/TURBOC3/BIN/dcdr/Practical 4.cpp",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/demoarea/WEB-INF/web.xml",
+		"/C/Users/PRIYANKA/AppData/Local/Temp/Rar$DI55.776/presentation.txt",
+		"/C/Users/PRIYANKA/AppData/Local/Temp/Rar$DI85.776/presentation.txt",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/demoadd/index.html",
+		"/C/Users/PRIYANKA/AppData/Local/Temp/Rar$DI06.064/presentation.txt",
+		"/C/Users/PRIYANKA/AppData/Local/Temp/Rar$DI91.064/presentation.txt",
+		"/F/college/sem6/java/webapps/filterdemo/WEB-INF/classes/HelloServlet.java",
+		"/F/college/sem6/java/webapps/filterdemo/WEB-INF/classes/MyFilter.java",
+		"/F/college/sem6/java/webapps/filterdemo/WEB-INF/web.xml",
+		"/F/college/sem6/java/webapps/filterdemo/index.html",
+		"/C/Users/PRIYANKA/AppData/Local/Temp/Rar$DI98.048/code.txt",
+		"/F/college/sem6/java/webapps/loginsess/WEB-INF/classes/LoginServlet.java",
+		"/F/college/sem6/java/webapps/loginsess/WEB-INF/classes/LogoutServlet.java",
+		"/F/college/sem6/java/webapps/loginsess/WEB-INF/classes/ProfileServlet.java",
+		"/F/college/sem6/java/webapps/loginsess/WEB-INF/web.xml",
+		"/F/college/sem6/java/webapps/loginsess/index.html",
+		"/F/college/sem6/java/webapps/loginsess/login.html",
+		"/F/college/sem6/java/webapps/loginsess/link.html",
+		"/F/college/sem6/java/webapps/SessionDemo/index.html",
+		"/F/college/sem6/java/webapps/SessionDemo/WEB-INF/web.xml",
+		"/F/college/sem6/java/webapps/SessionDemo/WEB-INF/classes/OutputServlet.java",
+		"/F/college/sem6/java/webapps/SessionDemo/WEB-INF/classes/MyServlet.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/demoadd/WEB-INF/web.xml",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/demo_hello/WEB-INF/web.xml",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/demo_hello/WEB-INF/classes/Demo1.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/demo_hello/index.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/demo_hello/WEB-INF/classes/Demo.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/ser_life/WEB-INF/classes/add.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/demoadd/WEB-INF/classes/DemoServ_add.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/Cookie/WEB-INF/web.xml",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/Cookie/WEB-INF/we.XML",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/Cookie/WEB-INF/web1.XML",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/Cookie/index.html",
+		"/C/Users/PRIYANKA/AppData/Roaming/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/Cookie/WEB-INF/classes/MyServlet.java",
+		"/F/college/sem6/java/New folder (2)/Basic MVC Architecture.html",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/Cookie/WEB-INF/classes/OutputServlet.java",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/Cookie/WEB-INF/classes/MyServlet - Copy.java",
+		"/F/programming/html/css/basic01/1st.html",
+		"/F/programming/html/css/css-course-css.rar",
+		"/F/programming/javascript/webbasics/myscript.html",
+		"/F/programming/javascript/webbasics/index.html",
+		"/C/Users/PRIYANKA/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/PRIYANKA/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/PRIYANKA/AppData/Roaming/Sublime Text 3/Packages/LiveReload/README.md",
+		"/C/Users/PRIYANKA/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/ROOT/RELEASE-NOTES.txt",
+		"/C/xampp/passwords.txt",
+		"/C/apache-tomcat-9.0.14/conf/context.xml",
+		"/F/programming/html/basic02/frames.html",
+		"/F/programming/html/basic02/frames2.html",
+		"/I/prac17.java",
+		"/F/programming/html/basic01/form.html",
+		"/F/college/sem6/net/prac/.net/prac2.cs",
+		"/F/programming/html/basic01/index.html",
+		"/F/programming/html/basic01/menu.html",
+		"/F/college/sem6/net/prac/.net/pracl.cs",
+		"/F/programming/html/basic01/table.html",
+		"/F/programming/html/basic01/square.html",
+		"/F/programming/html/basic01/first.html",
+		"/F/programming/html/basic01/table2.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<servlet>\n\t<servlet-name>mahi</servlet-name>\n\t<servlet-class>insert</servlet-class>\n</servlet>\n<servlet-mapping>\n\t<servlet-name>mahi</servlet-name>\n\t<url-pattern>/insert</url-pattern>\n</servlet-mapping>",
+			"users.set('john',john)",
+			"}\n",
+			"\t\t\n",
+			"<ul>\n\t\t\t<li>life of pie</li>\n\t\t\t<li>sophies</li>\n\t\t\t<li>jonathan</li>\n\t\t</ul>",
+			"8080",
+			"meetings",
+			"')\n",
+			"myTodos.push('buy Bread')",
+			"')\n",
+			">\n",
+			"\t<",
+			">\n",
+			"d",
+			"D",
+			"argument",
+			"small",
+			";\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/fpass/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/jdbc/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/fpass/WEB-INF/web.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								501
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/fpass/WEB-INF/classes/Myfilter.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								779
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/fpass/WEB-INF/classes/pass.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								494
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 134.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "123.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"e",
+				"javascript\\basic01\\celc.js"
+			],
+			[
+				"f",
+				"basic03\\func.js"
+			],
+			[
+				"",
+				"basic03\\func.js"
+			],
+			[
+				"c",
+				"basic01\\cel.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
